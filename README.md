@@ -13,3 +13,5 @@
 #![AltText](https://github.com/najmi10/POLIMORPHISM/blob/master/Lat_4_POLI.png"Hasil Enam")
 # Hasil 7
 #![AltText](https://github.com/najmi10/POLIMORPHISM/blob/master/Tugas_Prak_POLI.png "Hasil Tujuh")
+# Hasil 8
+#![AltText](https://github.com/najmi10/POLIMORPHISM/blob/master/Lat1B_POLI.png "Hasil Delapan")
